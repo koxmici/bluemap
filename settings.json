@@ -1,0 +1,20 @@
+{
+  "version": "5.27",
+  "useCookies": true,
+  "defaultToFlatView": false,
+  "resolutionDefault": 1.0,
+  "minZoomDistance": 5,
+  "maxZoomDistance": 100000,
+  "hiresSliderMax": 500,
+  "hiresSliderDefault": 100,
+  "hiresSliderMin": 0,
+  "lowresSliderMax": 7000,
+  "lowresSliderDefault": 2000,
+  "lowresSliderMin": 500,
+  "mapDataRoot": "https://raw.githubusercontent.com/koxmici/bluemap/maps",
+  "liveDataRoot": "https://raw.githubusercontent.com/koxmici/bluemap/maps",
+  "clientDecompression": true,
+  "maps": ["koxmici3", "koxmici4", "koxmici5", "koxmici51", "koxmici6", "koxmici7", "koxmici8"],
+  "scripts": [],
+  "styles": []
+}
